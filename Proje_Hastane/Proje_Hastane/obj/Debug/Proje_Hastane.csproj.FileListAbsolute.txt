@@ -1,0 +1,28 @@
+C:\Users\Berke\Desktop\Udemy Projelerim\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe.config
+C:\Users\Berke\Desktop\Udemy Projelerim\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe
+C:\Users\Berke\Desktop\Udemy Projelerim\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.pdb
+C:\Users\Berke\Desktop\Udemy Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csprojResolveAssemblyReference.cache
+C:\Users\Berke\Desktop\Udemy Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.Properties.Resources.resources
+C:\Users\Berke\Desktop\Udemy Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.GenerateResource.Cache
+C:\Users\Berke\Desktop\Udemy Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.exe
+C:\Users\Berke\Desktop\Udemy Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.pdb
+C:\Users\Berke\Desktop\Udemy Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.Frmgirisler.resources
+C:\Users\Berke\Desktop\Udemy Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.frmhastakayıt.resources
+C:\Users\Berke\Desktop\Udemy Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.frmhastagiris.resources
+C:\Users\Berke\Desktop\Udemy Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktordetay.resources
+C:\Users\Berke\Desktop\Udemy Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.Frmdoktorgiris.resources
+C:\Users\Berke\Desktop\Udemy Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.Frmhastabilgiduzenle.resources
+C:\Users\Berke\Desktop\Udemy Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastadetay.resources
+C:\Users\Berke\Desktop\Udemy Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmBransid.resources
+C:\Users\Berke\Desktop\Udemy Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorBilgiDüzenle.resources
+C:\Users\Berke\Desktop\Udemy Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorPaneli.resources
+C:\Users\Berke\Desktop\Udemy Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDuyurular.resources
+C:\Users\Berke\Desktop\Udemy Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmRandevuListesi.resources
+C:\Users\Berke\Desktop\Udemy Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmSekreterDetay.resources
+C:\Users\Berke\Desktop\Udemy Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmSekreterGiris.resources
+C:\Users\Berke\Desktop\C# Projelerim\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe.config
+C:\Users\Berke\Desktop\C# Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.exe
+C:\Users\Berke\Desktop\C# Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.pdb
+C:\Users\Berke\Desktop\YAZILIM VE OFİS PROGRAMLARI\C# Projelerim\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe.config
+C:\Users\Berke\Desktop\YAZILIM VE OFİS PROGRAMLARI\C# Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.exe
+C:\Users\Berke\Desktop\YAZILIM VE OFİS PROGRAMLARI\C# Projelerim\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.pdb
